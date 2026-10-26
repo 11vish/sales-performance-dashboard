@@ -1,0 +1,32 @@
+Sales Performance Dashboard — Executive Summary
+
+Project Overview
+
+
+This project uses Power BI to analyze sales performance across product categories, regions, and time. The dashboard provides an interactive overview of sales, profit, and order activity.
+
+Key Performance Indicators
+
+Total Sales: 2.33M
+Total Profit: 292.30K
+Total Orders: 5.111K
+
+These figures represent the overall dashboard totals when no region filter is selected.
+
+Dashboard Features
+
+KPI cards for sales, profit, and orders.
+Sales comparison across Technology, Furniture, and Office Supplies.
+Monthly sales trend visualization.
+Sales comparison across West, East, Central, and South.
+Interactive Region filtering to explore performance by region.
+
+Business Use
+
+The dashboard helps users compare regional and category performance and examine how sales change over time. Users can select a region to explore the corresponding KPIs and charts.
+
+Conclusion
+
+The report provides an interactive overview of sales performance and supports further investigation into regional differences, product-category contribution, and monthly trends.
+
+Note: Further business recommendations should be based on a detailed review of the underlying data and verified findings.

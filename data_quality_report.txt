@@ -1,0 +1,37 @@
+Data Quality Report — Sales Performance Dashboard
+
+
+1. Source Data
+
+Source: Sample Superstore Excel workbook
+
+Main table: Orders
+Supporting tables: People and Returns
+
+2. Validation Checks
+
+
+Checked for blank Sales values: None found.
+
+Checked for blank Order IDs: None found.
+
+Checked for blank Order Dates: None found.
+
+Checked for blank Profit values: None found.
+
+Checked for blank Quantity values: None found.
+
+Checked for duplicate Row IDs: None found.
+
+Checked Order Date values: Dates were recognized as valid date values.
+
+Checked for zero or negative Quantity values: None found.
+
+
+3. Observation Requiring Verification
+
+Some Order Dates were later than the date of the validation check. These records were not changed and should be verified against the original source data before being treated as errors.
+
+4. Conclusion
+
+The checks above did not identify missing values in the selected fields or duplicate Row IDs. The future-dated records remain a validation item for review.
